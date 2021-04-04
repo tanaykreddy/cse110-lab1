@@ -18,7 +18,7 @@ print("Hello, World!")
 
 Make sure to check out [my GitHub](https://github.com/tanaykreddy) to see a variety of programs which I have written.
 
-You can also see a list of the classes I've taken [here](files/languages.txt), for a general idea of concepts I know.
+You can also see a list of the classes I've taken [here](files/classes.md), for a general idea of concepts I know.
 
 I also know a variety of programming languages, such as:
  - C
